@@ -1,7 +1,7 @@
 # MarioGame-Robi
 
-- [ ] Project Setup
-- [ ] Player Creation
+- [x] Project Setup
+- [x] Player Creation
 - [x] Gravity
 - [x] Player movement
 - [x] Platforms
@@ -10,5 +10,5 @@
 - [x] Image platforms
 - [x] Parallax scroll
 - [x] Death pits
-- [x] Fine-tuning
-- [x] Level creation
+- [ ] Fine-tuning
+- [ ] Level creation
