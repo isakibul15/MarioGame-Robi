@@ -221,6 +221,7 @@ player.update();
       player.velocity.y = 0;
     }
   });
+
   // win condition
   if (scrollOffset > 2000) {
      console.log("You win!");
